@@ -1,0 +1,25 @@
+STL is divided into 4 parts;
+1.Containers
+2.Iterators
+3.Algorithms
+4.Functors
+
+Containers:
+
+1.Sequential:
+a.vectors
+b.Stack
+c.Queue
+d.pair
+
+2.Ordered:
+a.Maps
+b.Multimaps
+c.set
+d.multiset
+
+3.unordered:
+a.unordered Maps
+b.unordered set
+
+4.Nested containers
